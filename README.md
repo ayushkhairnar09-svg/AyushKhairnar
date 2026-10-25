@@ -78,8 +78,8 @@ I'm a Computer Science student specializing in Data Science, exploring programmi
 
 I'm always interested in learning, collaborating, and building meaningful things with technology.
 
-- GitHub: [@YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
+- GitHub:https://github.com/ayushkhairnar09-svg
+- LinkedIn: https://www.linkedin.com/in/ayush-khairnar-b793093a3/
 
 ---
 
